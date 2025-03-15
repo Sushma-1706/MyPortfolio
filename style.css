@@ -1,0 +1,71 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header h1 {
+    color: #fff;
+}
+
+.highlight {
+    color: #08e7c2;
+}
+
+nav a {
+    color: #0ff0dd;
+    margin: 0px 15px;
+    text-decoration: none;
+}
+
+section {
+    padding: 40px 20px;
+    border-bottom: 2px solid #09c1da;
+}
+
+.buttons button,
+.read-more,
+form button {
+    background-color: #0ae6db;
+    border: none;
+    color: #000;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#skills .skill-card {
+    background-color: #07e2f1;
+    color: #000;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+form input,
+form textarea {
+    background-color: #000;
+    border: 2px solid #0deed0;
+    color: #fff;
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 0px 10px;
+    font-size: 18px;
+    color: #0cf8f8;
+    text-decoration: none;
+    padding: 5px 15px;
+    border: 1px solid #09e0ce;
+    border-radius: 10px;
+}
+
+.social-icons a:hover {
+    background-color: #0cecda;
+    color: #000;
+}
